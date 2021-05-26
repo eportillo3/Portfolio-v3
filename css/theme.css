@@ -42,6 +42,18 @@ body {
 
 #LVFT-img {
   margin-top: 30px;
+  width: 100%;
+  height: auto;
+}
+
+#crypto-img {
+  width: 100%;
+  height: auto;
+}
+
+.myFlix-img {
+  width: 100%;
+  height: auto;
 }
 
 /* Loader */
